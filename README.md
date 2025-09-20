@@ -1,11 +1,11 @@
 # dojo-java-exercises
 repositorio do curso DevDojo java Virado no Jiraiya
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class exercio01 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public class exercio01 {
+     public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite o nome da moeda: ");
         String moeda = scanner.nextLine().toLowerCase();
