@@ -1,2 +1,2 @@
-# dio-java-basico
-repositorio do curso dio java basico
+# dojo-java-exercises
+repositorio do curso DevDojo java Virado no Jiraiya
